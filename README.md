@@ -6,3 +6,6 @@ The game starts by randomly selecting a color and adding it to the sequence. The
 To make the game more interesting, the speed of the sequence increases as the player progresses through the levels. Additionally, there are sound effects and visual feedback to indicate whether the player has made a correct or incorrect move.
 
 Overall, the Simon game is a fun and challenging way to test your memory and reaction time. With jQuery, it's easy to build a dynamic and engaging version of this classic game on the web.
+
+Here is the Link to play the Game:
+https://vishveshwara.github.io/Simon-Game-using-Jquery/
